@@ -1,4 +1,4 @@
-package HashM;
+package hashmap;
 
 public class DriverLicense {
     private int id;

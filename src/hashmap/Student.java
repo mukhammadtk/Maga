@@ -1,4 +1,4 @@
-package HashM;
+package hashmap;
 
 public class Student {
     private String name;
