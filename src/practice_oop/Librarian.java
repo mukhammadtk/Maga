@@ -1,4 +1,4 @@
-package Pr8;
+package practice_oop;
 
 public class Librarian extends User implements iLibrarian, iAdministrator {
     private String book;

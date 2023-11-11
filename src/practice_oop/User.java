@@ -1,4 +1,4 @@
-package Pr8;
+package practice_oop;
 
 public abstract class User {
     private String name;

@@ -1,4 +1,4 @@
-package Pr8;
+package practice_oop;
 
 public class Supplier extends User implements iSupplier, iReader {
     public Supplier(String name) {
