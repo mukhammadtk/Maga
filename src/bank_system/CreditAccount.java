@@ -1,4 +1,4 @@
-package bANK;
+package banksystem;
 
 public class CreditAccount extends Account {
     private int limit = 50_000;

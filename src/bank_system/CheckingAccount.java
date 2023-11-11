@@ -1,4 +1,4 @@
-package bANK;
+package banksystem;
 
 public class CheckingAccount extends Account{
     public CheckingAccount(int balance) {
